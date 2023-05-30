@@ -1,0 +1,13 @@
+.intro{
+    text-align: center;
+    font-family: Arial;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman';
+}
+#current-image{
+    height: 650px ;
+    width: 450px ;
+    margin: 0px auto;
+}
